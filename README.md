@@ -7,4 +7,5 @@ This project is about vision system to control face, and fingerprint reader, whi
 * Casing
 
 ![Model](Casingassembly2.png)
+* Electrical template
 ![Model2](Electricaltemplate.png)
