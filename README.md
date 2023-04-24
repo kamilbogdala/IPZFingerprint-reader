@@ -6,4 +6,4 @@ This project is about vision system to control face, and fingerprint reader, whi
 ## Features
 * Casing
 
-![Model](Casingassembly2.png)
+![Model](Casingassembly1.png)
